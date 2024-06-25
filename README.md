@@ -1,5 +1,4 @@
 ## Codes to replicate the results in Ju et al.
----
 
 ### The following software/packages are required:
 1. samtools
@@ -15,7 +14,8 @@ You can download the file from
 https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/hg38.fa.gz
 ```
 
-2. GM12878 nucleosome track 
+2. GM12878 nucleosome track
+
 You can download the file from
 ```
 https://download.cncb.ac.cn/nucmap/organisms/v1/Homo_sapiens/byDataType/Nucleosome_peaks_DANPOS/Homo_sapiens.hsNuc0390101.nucleosome.DANPOSPeak.bed.gz
