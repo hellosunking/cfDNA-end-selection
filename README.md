@@ -1,4 +1,4 @@
-## Codes to replicate the results in Ju et al.
+## Codes to replicate the results in Ju et al. Cell Reports Methods 2024
 
 ### The following software/packages are required:
 1. samtools
