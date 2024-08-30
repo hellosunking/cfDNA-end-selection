@@ -3,7 +3,8 @@
 ---
 Distributed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/ "CC BY-NC-ND")
 license for personal and academic usage only.
-*IMPORTANT* Unauthorized commercial usage of these programs/scripts are not allowed.
+
+**IMPORTANT NOTE:** Unauthorized commercial usage of these programs/scripts are not allowed.
 
 ### The following software/packages are required:
 1. samtools
