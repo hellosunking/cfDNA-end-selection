@@ -1,10 +1,11 @@
-## Programs/scripts to replicate the results in Ju et al. Cell Reports Methods 2024
+## Scripts to replicate the results in
+[Ju et al. Cell Reports Methods 2024](https://doi.org/10.1016/j.crmeth.2024.100877 "Ju et al.")
 
 ---
 Distributed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/ "CC BY-NC-ND")
-license for personal and academic usage only.
+license for *personal and academic usage only.*
 
-**IMPORTANT NOTE:** Unauthorized commercial usages are not allowed.
+**IMPORTANT NOTE: Unauthorized commercial usages are strictly forbidden!!!**
 
 ### The following software/packages are required:
 1. samtools
